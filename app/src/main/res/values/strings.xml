@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Posesionista</string>
+    <string name="label_name">Name</string>
+    <string name="label_cost">Cost</string>
+    <string name="label_serial">Serial Number</string>
+    <string name="label_date">Date</string>
+    <string name="value_name">iPod</string>
+    <string name="value_cost">100</string>
+    <string name="value_serial">4536b</string>
+    <string name="new_item">Add an item!</string>
+    <string name="string_new_item">Add an item</string>
+    <string name="article_detail">Article Details</string>
+    <string name="article_list">Inventory</string>
+    <string name="new_article">Add New Article</string>
+    <string name="article_picture">Article Picture</string>
+    <string name="picture_description">Take Picture</string>
+    <string name="pick_date">Pick Date</string>
+</resources>
